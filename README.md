@@ -7,7 +7,7 @@
 - 邮箱：DaisyCream@qq.com
 - 个人网站：[http://DaisyCream.com](http://DaisyCream.com)
 - Github：[https://github.com/DaisyCream](https://github.com/DaisyCream)
-- 爱好：平面设计，钢琴，吉他，架子鼓
+- 爱好：平面设计、钢琴、吉他、架子鼓
 - 毕业时间：2017年6月
 - 求职意向：Web前端开发工程师
 
@@ -33,7 +33,7 @@
 ###其他：
 
 - 熟练掌握ps，有自我创新能力，基础绘画能力，对设计感兴趣，有一定的自我风格。
-- 日常使用git与webstorm进行开发，坚持向github提交代码,热爱开源文化乐于分享
+- 坚持向github提交代码,热爱开源文化乐于分享
 - 掌握基础linux，熟悉常用命令
 
 ##项目
@@ -62,7 +62,8 @@
 
 - 项目简述：我独立负责了CFC团队2015年版官网的开发和设计，通过监听每张图片的加载状态，设计了童话色彩般的页面预加载效果。主页面房子可以打开窗户看见每个人简介，整个页面可以顺滑滚动到相应团队介绍部分，使用了很多动画效果。设计理念是团结有爱，整体风格使用现在较流行的扁平化设计，色彩温馨。
 
-[展示](http://daisycream.com/CFCweb/cfc.html) [Github](https://github.com/DaisyCream/CFCweb)
+[展示](http://daisycream.com/CFCweb/cfc.html) 
+[Github](https://github.com/DaisyCream/CFCweb)
 
 
 ###解L骨牌web动画版（算法动画演示）
@@ -80,6 +81,6 @@
 - 担任职责：UI设计
 - Twinkle Star是一款Android游戏，我独立承担了整体的UI设计，参与部分游戏策划，游戏上线后，获得了一小部分用户的鼓励与支持。
 
-[演示](http://v.youku.com/v_show/id_XNzU1MjYyNzEy.html)
+[演示](http://www.bilibili.com/video/av1412319/)
 [下载](http://www.wandoujia.com/apps/com.breezedust.huaxinxin)
 
