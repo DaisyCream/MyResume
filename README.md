@@ -70,8 +70,8 @@
 - 担任职责：独立开发(UI设计，开发)
 - 项目简述：L骨牌是一个典型的分治问题。因为自己想用漂亮的动画去实现展示效果，于是运用了js实现了L骨牌的分治算法，然后用css3动画和js计算每个元素的位置，实现了自动识别L骨牌初始位置和目标位置，并且能够动态切换棋盘大小，整体风格偏向扁平化设计。
 
-[展示](http://daisycream.com/paintGame)
-[Github](https://github.com/DaisyCream/paintGame)
+[展示](http://daisycream.com/LChess)
+[Github](https://github.com/DaisyCream/LChess)
 
 
 
