@@ -6,6 +6,7 @@
 - 电话：15683214487
 - 邮箱：DaisyCream@qq.com
 - 个人网站：[http://DaisyCream.com](http://DaisyCream.com)
+- Github：[https://github.com/DaisyCream](https://github.com/DaisyCream)
 - 爱好：平面设计，钢琴，吉他，架子鼓
 - 毕业时间：2017年6月
 - 求职意向：Web前端开发工程师
